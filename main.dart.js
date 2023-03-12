@@ -63144,7 +63144,7 @@ $0(){var s=A.af0(new A.VY(),null,t.z)
 A.Eg(this.a).oZ(s)},
 $S:0}
 A.VY.prototype={
-$1(a){return new A.o9(A.a(["https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q1.png?alt=media&token=b76dd41b-1563-4dea-9772-0697e2ae6197","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q2.png?alt=media&token=c4852b44-2fa8-4de3-956f-0898746f98e5","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q3.png?alt=media&token=5babb39a-c5fc-4cc1-a4a9-d484c40eea3e","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q4.png?alt=media&token=e0fc0185-a1b1-471d-bd2d-8d30dffe46ac"],t.s),null)},
+$1(a){return new A.o9(A.a(["https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q1.png?alt=media&token=b76dd41b-1563-4dea-9772-0697e2ae6197","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q2.png?alt=media&token=c4852b44-2fa8-4de3-956f-0898746f98e5","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q3.png?alt=media&token=5babb39a-c5fc-4cc1-a4a9-d484c40eea3e","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q4.png?alt=media&token=e0fc0185-a1b1-471d-bd2d-8d30dffe46ac","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q5.png?alt=media&token=bba8144b-49b7-42e0-8dbb-2bfddc0f370b","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q6.png?alt=media&token=aa6ac227-d180-4011-b67a-eb5fde75b968","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q7.png?alt=media&token=9e6c43e4-65da-4cd0-bdcc-76f120024a15","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q8.png?alt=media&token=151e57d5-235c-4fdd-8f5a-2b30e0ce3954","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q9.png?alt=media&token=9a9a8069-8b88-40ff-bcf5-cd47fd3f02e9","https://firebasestorage.googleapis.com/v0/b/importantquestions-4d22b.appspot.com/o/IOT%20Theory%20Answers%2FMST1%2FIOTThMST1Q10.png?alt=media&token=53f52d8a-5805-4294-92e7-602099c0a1f4","","","","","",""],t.s),null)},
 $S:387}
 A.ox.prototype={
 N(a){return new A.ha(new A.XJ(this),null)}}
@@ -63159,7 +63159,7 @@ A.o9.prototype={
 N(a){return new A.ha(new A.Wo(this),null)}}
 A.Wo.prototype={
 $1(a){var s=null
-return A.af_(A.afk(A.aee(A.Hg("IOT Important Questions",s,s,s)),A.aj9(new A.eP(B.r,s,s,s,s,s,B.aT),new A.Wn(this.a),4,new A.ld(B.jC,s))),"Important Questions")},
+return A.af_(A.afk(A.aee(A.Hg("IOT Important Questions",s,s,s)),A.aj9(new A.eP(B.r,s,s,s,s,s,B.aT),new A.Wn(this.a),16,new A.ld(B.jC,s))),"Important Questions")},
 $S:144}
 A.Wn.prototype={
 $2(a,b){return A.aja(A.ahI(this.a.c[b]))},
